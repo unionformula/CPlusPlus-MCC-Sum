@@ -1,0 +1,10 @@
+/* Name, CSC133-E1, SMR2016
+  Lab Assignment No1, Program 3
+  July 7, 2016
+  */
+  
+#include<iostream>;
+using namespace std;
+
+int main(){
+  
